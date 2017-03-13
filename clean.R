@@ -1,6 +1,6 @@
 library(data.table)
 
-path = 'C:\\coursera\\3-4\\UCI HAR Dataset'
+path = getwd()
 Xtrain = fread(file.path(path, 'train', 'X_train.txt'))
 ytrain = fread(file.path(path, 'train', 'y_train.txt'))
 Xtest = fread(file.path(path, 'test', 'X_test.txt'))
