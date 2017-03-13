@@ -11,5 +11,6 @@ They wore a cellphone and the biometric data from the phone's accelerometer and 
 Various data transformations were executed to produce a range of 561 different features, including aggregate statistics and Fourier transforms to examine the frequency domain. 
 
 ##### Tidy data set
+Script for the manipulation into a tidy dataset can be found in clean.R. 
 This author organized and labelled the data, selecting standard deviations and means for each measured variable.
 The data was also aggregated for mean for the data grouped first by activity type and then by subject number.
