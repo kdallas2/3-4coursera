@@ -1,5 +1,6 @@
-# 3-4coursera
-Data cleaning exercise
+# Week 3-4
+
+Data cleaning exercise in Coursera's data science course.
 
 README.txt has the best description of the dataset. Briefly:
 
